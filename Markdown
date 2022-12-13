@@ -1,0 +1,9 @@
+Aqui habra un resumen de Markdown 
+
+Empezando por el Sketchpad y ampliándose a las últimas versiones del software de medios,
+gran parte de los medios físicos fueron simulados con todo lujo de detalles y durante el proceso se les agregaron muchas nuevas propiedades. 
+En pocas palabras, se hizo realidad la visión de Kay del ordenador como metamedio, una plataforma que albergaba una multitud de medios existentes.
+El debate sobre el metamedio ordenador del final del artículo de 1977 de Kay y Goldberg puede dar la impresión de que se iba a desarrollar a través de añadidos, 
+a medida que los usuarios formaran nuevos tipos de medios para amoldarse a sus necesidades empleando las herramientas proporcionadas con el ordenador personal Dynabook.
+Esta nueva fase es la hibridación de los medios. Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfin de medios simulados y nuevos,
+es natural esperar que empezarían a generar híbridos.
