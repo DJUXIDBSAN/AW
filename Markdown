@@ -3,7 +3,9 @@ Aqui habra un resumen de Markdown
 Empezando por el Sketchpad y ampliándose a las últimas versiones del software de medios,
 gran parte de los medios físicos fueron simulados con todo lujo de detalles y durante el proceso se les agregaron muchas nuevas propiedades. 
 En pocas palabras, se hizo realidad la visión de Kay del ordenador como metamedio, una plataforma que albergaba una multitud de medios existentes.
-El debate sobre el metamedio ordenador del final del artículo de 1977 de Kay y Goldberg puede dar la impresión de que se iba a desarrollar a través de añadidos, 
-a medida que los usuarios formaran nuevos tipos de medios para amoldarse a sus necesidades empleando las herramientas proporcionadas con el ordenador personal Dynabook.
+¿Y a partir de entonces qué? ¿Qué es lo próximo? ¿Cuál es la próxima etapa de la evolución del metamedio?
+Se trata de una cuestión que, al menos que yo haya observado, los inventores de los medios informáticos no abordaron en sus escritos.
 Esta nueva fase es la hibridación de los medios. Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfin de medios simulados y nuevos,
-es natural esperar que empezarían a generar híbridos.
+es natural esperar que empezarían a generar híbridos. Y esto es exactamente lo que ha venido sucediendo en esta nueva etapa de evolución de los medios.
+A menudo estos medios se sitúan en lo que visualmente asemeja un espacio bidimensional. Una típica página web de los dos mil es un ejemplo de multimedia,
+como lo es la típica presentación de PowerPoint. En la actualidad, al menos, ésta sigue siendo la manera más habitual de estructurar documentos multimedia
