@@ -9,3 +9,9 @@ Esta nueva fase es la hibridación de los medios. Una vez los ordenadores se tra
 es natural esperar que empezarían a generar híbridos. Y esto es exactamente lo que ha venido sucediendo en esta nueva etapa de evolución de los medios.
 A menudo estos medios se sitúan en lo que visualmente asemeja un espacio bidimensional. Una típica página web de los dos mil es un ejemplo de multimedia,
 como lo es la típica presentación de PowerPoint. En la actualidad, al menos, ésta sigue siendo la manera más habitual de estructurar documentos multimedia
+
+Caracteristicas y particularidades del lenguaje markdown:
+Es un lenguaje de marcado ligero creado por John Gruber y Aaron Swartz que trata de conseguir la máxima legibilidad y facilidad de publicación 
+tanto en su forma de entrada como de salida usando texto plano.
+Un párrafo no requiere sintaxis especial. Para aplicar negrita al texto, se escribe entre dos asteriscos. 
+Para aplicar cursiva al texto, se escribe entre un solo asterisco
